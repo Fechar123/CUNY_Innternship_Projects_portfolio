@@ -33,7 +33,7 @@ These are some projects I worked on during my internship with CUNY.
 
 # [Project 4: All Students in CIP](https://github.com/Fechar123/Internship_Projects/blob/master/All%20Students%20in%20CIP.ipynb)
 ## Project Overview:
-- This project was an exploratory analysis of
+- This project was an exploratory analysis of all students within the CUNY internship program and fellowship.
 - The objective of the analysis was to get a better understanding of the background of students who are participating in the CUNY Internship 
   Program and Fellowship program.  
 
