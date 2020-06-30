@@ -40,7 +40,6 @@ These are some projects I worked on during my internship with CUNY.
 ![](https://github.com/Fechar123/image/blob/master/all.png)
 
 
-
 # [Project 5: CUNY Enrollments and Graduation Analysis](https://github.com/Fechar123/CUNY_Internship_Projects/edit/master/README.md)
 ## Project Overview:
 - This project was an ad hoc analysis on CUNY enrollments and graduation results for 2018 and 2019.
