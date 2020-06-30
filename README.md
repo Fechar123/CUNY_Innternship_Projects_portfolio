@@ -18,7 +18,7 @@ These are some projects I worked on during my internship with CUNY.
 - The objective of this analysis was to get a better understanding of the type of work students are doing, ho many of them are getting hired at the end of the internship or     fellowship, and the trends in the length of internship and fellowship period over the years.
 
 
-![](/image/blob/master/doitt.png)
+![](/image/doitt.png)
 
 
 
