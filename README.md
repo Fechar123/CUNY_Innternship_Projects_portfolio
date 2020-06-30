@@ -1,4 +1,4 @@
-# CUNY_Innternship_Projects_portfolio
+# CUNY_Internship_Projects_portfolio
 These are some projects I worked on during my internship with CUNY
 
 # [Project 1: Active Students](https://github.com/Fechar123/Internship_Projects/blob/master/Active%20Students.ipynb)
