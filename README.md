@@ -8,7 +8,7 @@ These are some projects I worked on during my internship with CUNY.
 -  The objective of this analysis was to gain a better sense of the students in regards to their majors, what college they attend, and the kind of work they are doing with the      company they are interning with.
 
 
-![](https://github.com/Fechar123/image/blob/master/active.png)
+![](https://github.com/Fechar123/image/blob/master/2.png)
 
 
 
@@ -18,7 +18,7 @@ These are some projects I worked on during my internship with CUNY.
 - The objective of this analysis was to get a better understanding of the type of work students are doing, ho many of them are getting hired at the end of the internship or     fellowship, and the trends in the length of internship and fellowship period over the years.
 
 
-![](https://github.com/Fechar123/image/blob/master/doitt.png)
+![](https://github.com/Fechar123/image/blob/master/3.png)
 
 
 
@@ -27,7 +27,7 @@ These are some projects I worked on during my internship with CUNY.
 - This project was an exploratory analysis of the NYC Department of education schools receiving internship services through the CUNY internship program.
 - The objective of the analysis was to identify the trends in the number of schools getting served each year and identify which schools are returning clients and new clients. 
 
-![](https://github.com/Fechar123/image/blob/master/shools.png)
+![](https://github.com/Fechar123/image/blob/master/1.png)
 
 
 
