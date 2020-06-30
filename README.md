@@ -5,7 +5,7 @@ These are some projects I worked on during my internship with CUNY.
 ## Project Overview:
 -  This project was an exploratory analysis on Students who are currently interning through the CUNY 
    internship program or CUNY fellowship program
--  The objective of this analysis was to gain a better sense of the students regards to their majors, what college they attend, and the kind of work they are doing with the      company they are interning with.
+-  The objective of this analysis was to gain a better sense of the students in regards to their majors, what college they attend, and the kind of work they are doing with the      company they are interning with.
 
 
 ![](https://github.com/Fechar123/image/blob/master/active.png)
